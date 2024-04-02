@@ -4,7 +4,7 @@
 
 
 ### :man_technologist: About Me :
-I am a 2nd year student of BSU FPMI. I am currently studying Go and all the subtleties of backend development.
+I am a 2nd year student of BSU FAMCS. I am currently studying Go and all the subtleties of backend development.
 
 ### :hammer_and_wrench: Languages and Tools :
 
